@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/todoApp/static/css/main.eee47fbb.chunk.css",
+    "main.js": "/todoApp/static/js/main.d30cedcc.chunk.js",
+    "main.js.map": "/todoApp/static/js/main.d30cedcc.chunk.js.map",
+    "runtime-main.js": "/todoApp/static/js/runtime-main.13d35368.js",
+    "runtime-main.js.map": "/todoApp/static/js/runtime-main.13d35368.js.map",
+    "static/js/2.b389a8cd.chunk.js": "/todoApp/static/js/2.b389a8cd.chunk.js",
+    "static/js/2.b389a8cd.chunk.js.map": "/todoApp/static/js/2.b389a8cd.chunk.js.map",
+    "static/js/3.719bc924.chunk.js": "/todoApp/static/js/3.719bc924.chunk.js",
+    "static/js/3.719bc924.chunk.js.map": "/todoApp/static/js/3.719bc924.chunk.js.map",
+    "index.html": "/todoApp/index.html",
+    "static/css/main.eee47fbb.chunk.css.map": "/todoApp/static/css/main.eee47fbb.chunk.css.map",
+    "static/js/2.b389a8cd.chunk.js.LICENSE.txt": "/todoApp/static/js/2.b389a8cd.chunk.js.LICENSE.txt",
+    "static/media/ai.6e2079be.svg": "/todoApp/static/media/ai.6e2079be.svg",
+    "static/media/automation.7b107149.svg": "/todoApp/static/media/automation.7b107149.svg",
+    "static/media/clipboard.9a3ae692.svg": "/todoApp/static/media/clipboard.9a3ae692.svg",
+    "static/media/feelings.98550715.svg": "/todoApp/static/media/feelings.98550715.svg",
+    "static/media/idea.ef22df92.svg": "/todoApp/static/media/idea.ef22df92.svg",
+    "static/media/learning.e91c7ebf.svg": "/todoApp/static/media/learning.e91c7ebf.svg",
+    "static/media/rob.0119280d.svg": "/todoApp/static/media/rob.0119280d.svg",
+    "static/media/robotics.43d0a18d.svg": "/todoApp/static/media/robotics.43d0a18d.svg",
+    "static/media/second.1b124d6d.svg": "/todoApp/static/media/second.1b124d6d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d35368.js",
+    "static/js/2.b389a8cd.chunk.js",
+    "static/css/main.eee47fbb.chunk.css",
+    "static/js/main.d30cedcc.chunk.js"
+  ]
+}
