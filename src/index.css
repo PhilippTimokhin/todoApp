@@ -1,0 +1,75 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.logo {
+  height: 90%;
+  display: inline-block;
+  padding-left: 20px;
+  
+}
+
+.logo>img {
+  vertical-align: middle
+}
+
+.text {
+  display: inline-block;
+  padding-left: 0px;
+  font-family: 'Dancing Script', cursive; 
+}
+
+.content_mt {
+  margin-top: 20px;
+}
+
+.icons {
+  height: 150px;
+}
+
+.preview_color {
+  height: 500px;
+  background-color: #4a148c;
+}
+
+.preview {
+  padding-top: 20px;
+height: 60%;
+}
+
+.todo {
+  margin-bottom: 1rem;
+}
+
+.todo.completed span {
+  text-decoration: line-through;
+}
+
+.todo label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 1rem;
+  background: #f3f3f3;
+}
+
+.todo i {
+  z-index: 2;
+}
+
+.text_pr {
+  color: #fff;
+}
